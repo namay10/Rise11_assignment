@@ -1,11 +1,25 @@
 
-![vite-dash-hostinger](https://github.com/fireclint/react-dash-tremor-tailwind/assets/65420004/867a9fc9-165c-4de0-86e6-45efed0fe29e)
+## Installation
 
-# React + Vite
+To run the React Currency Converter on your local machine, follow these steps:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clone the repository to your local machine using the following command:
 
-Currently, two official plugins are available:
+```bash
+  git clone https://github.com/namay10/Rise11_assignment.git
+```
+    
+ Navigate to the project directory:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+  cd Rise11_assignmentgit
+```
+ Install the required dependencies:
+```bash
+ npm i
+```
+ Start the development server:
+```bash
+  npm run dev
+```
+Open your web browser and visit http://localhost:5173 to access the app.
