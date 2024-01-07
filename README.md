@@ -7,7 +7,7 @@ This is the project created for the hiring for the role of Frontend Developer in
 ![image](https://github.com/namay10/Rise11_assignment/assets/88048179/3f85f78b-e128-42f4-9273-25a0b534a900)
 ## Installation
 
-To run the React Currency Converter on your local machine, follow these steps:
+To run the React Dashboard  on your local machine, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
